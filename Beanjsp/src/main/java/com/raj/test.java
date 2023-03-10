@@ -10,7 +10,7 @@ public class test implements Serializable
 	public void setage(int age)
 	{
 		this.age=age;
-		system.out.println("hello");
+		
 	}
 	public int getage()
 	{
